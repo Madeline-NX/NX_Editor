@@ -1,0 +1,4 @@
+# Preserve the original bundled HTML byte for byte.
+index.html -text
+*.md text eol=lf
+.gitattributes text eol=lf
